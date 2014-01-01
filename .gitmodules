@@ -4,3 +4,6 @@
 [submodule "testConvert"]
 	path = testConvert
 	url = git@github.com:yknx4/testConvert.git
+[submodule "ffmpeg-convert"]
+	path = ffmpeg-convert
+	url = git@github.com:yknx4/ffmpeg-convert.git
