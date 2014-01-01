@@ -10,3 +10,6 @@
 [submodule "PlaylistToMp3_DLL"]
 	path = PlaylistToMp3_DLL
 	url = git@github.com:yknx4/PlaylistToMp3_DLL.git
+[submodule "PlaylistToMp3_GUI"]
+	path = PlaylistToMp3_GUI
+	url = git@github.com:yknx4/PlaylistToMp3_GUI.git
