@@ -1,0 +1,3 @@
+[submodule "taglib-sharp"]
+	path = taglib-sharp
+	url = git@github.com:yknx4/taglib-sharp.git
