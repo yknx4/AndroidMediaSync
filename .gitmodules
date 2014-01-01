@@ -1,3 +1,6 @@
 [submodule "taglib-sharp"]
 	path = taglib-sharp
 	url = git@github.com:yknx4/taglib-sharp.git
+[submodule "testConvert"]
+	path = testConvert
+	url = git@github.com:yknx4/testConvert.git
