@@ -12,6 +12,9 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testConvert", "testConvert\testConvert.csproj", "{793A5F7E-F8E8-46D3-ABCE-C268358F38F4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlaylistToMp3_GUI", "PlaylistToMp3_GUI\PlaylistToMp3_GUI.csproj", "{024F5BF8-DA21-48AE-867E-1EBEFF416132}"
+	ProjectSection(ProjectDependencies) = postProject
+		{6B143A39-C7B2-4743-9917-92262C60E9A6} = {6B143A39-C7B2-4743-9917-92262C60E9A6}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
